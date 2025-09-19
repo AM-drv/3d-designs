@@ -6,4 +6,6 @@
 
 - design shape mobile EXAM -
 
-EXAM 1-https://am-drv.github.io/exam-mobile1/3d.html
+EXAM 1- https://am-drv.github.io/exam-mobile1/3d.html
+
+EXAM 2- https://am-drv.github.io/mobile-exam2/3d.html
